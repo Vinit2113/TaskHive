@@ -1,4 +1,6 @@
 backend/node_modules
 backend/package-lock.json
 backend/.history
+backend/.env
+
 .history
